@@ -134,7 +134,7 @@ register(
     [
         (PF_IMAGE, "image", "takes current image", None),
         (PF_DRAWABLE, "drawable", "input layer", None),
-        (PF_STRING, "key", "Remove_bg KEY", "INSERT_YOUR_KEY_HERE"),
+        (PF_STRING, "key", "Remove_bg KEY", "xJY2bsr4yUeSEPkmDZhSz2LG"),
     ],
     [],
     remove_background,
